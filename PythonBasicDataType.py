@@ -49,5 +49,39 @@ print (tinytuple * 2)     # 输出两次元组
 print (tuple + tinytuple) # 连接元组
 
 
+# 集合
+
+student = {'Tom','Jim','Mary','Tom','Jack','Rose'}
+print(student)
+if('Rose' in student):
+    print('Rose 在集合中')
+else:
+    print('Rose 不在集合中')
+
+# set可以进行集合运算
+a = set('abracadabra')
+b = set('alacazm')
+print(a)
+
+print(a - b)
+
+print(a | b)
+
+print(a & b)
+
+print(a ^ b)
 
 
+# 字典
+
+dict = {}
+dict['one'] = "1 - 菜鸟教程"
+dict[2] = "2 - 菜鸟工具"
+
+tinydict = {'name': 'runoob', 'code': 1, 'site': 'huntergai.me'}
+
+print(dict['one'])
+print(dict[2])
+print(tinydict)
+print(tinydict.keys())
+print(tinydict.values())
