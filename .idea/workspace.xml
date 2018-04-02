@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1da11b3-c3c3-41ec-a4fc-948f04ca93a2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/PersonalMsg.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/quotes.py" />
+      <change beforePath="$PROJECT_DIR$/PersonalMsg.py" afterPath="$PROJECT_DIR$/PersonalMsg.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,6 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonLearningEveryDay$quotes.coverage" NAME="quotes Coverage Results" MODIFIED="1522685796384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearningEveryDay$PythonBasic.coverage" NAME="PythonBasic Coverage Results" MODIFIED="1521562316741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearningEveryDay$simpleMutiMsg.coverage" NAME="simpleMutiMsg Coverage Results" MODIFIED="1522684663857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearningEveryDay$simpleMsg.coverage" NAME="simpleMsg Coverage Results" MODIFIED="1522684587423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -61,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonalMsg.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PersonalMsg.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PersonalMsg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="160">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quotes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quotes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -104,6 +116,7 @@
         <option value="$PROJECT_DIR$/simpleMsg.py" />
         <option value="$PROJECT_DIR$/simpleMutiMsg.py" />
         <option value="$PROJECT_DIR$/PersonalMsg.py" />
+        <option value="$PROJECT_DIR$/quotes.py" />
       </list>
     </option>
   </component>
@@ -170,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PersonalMsg">
+  <component name="RunManager" selected="Python.quotes">
     <configuration name="PersonalMsg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,25 +203,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="PythonBasicDataType" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLearningEveryDay" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasicDataType.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="PythonCalculateSymbol" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,6 +217,25 @@
       <module name="PythonLearningEveryDay" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCalculateSymbol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="quotes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearningEveryDay" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quotes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,19 +280,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PythonBasicDataType" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PythonCalculateSymbol" />
-      <item index="2" class="java.lang.String" itemvalue="Python.simpleMsg" />
-      <item index="3" class="java.lang.String" itemvalue="Python.simpleMutiMsg" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PersonalMsg" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PythonCalculateSymbol" />
+      <item index="1" class="java.lang.String" itemvalue="Python.simpleMsg" />
+      <item index="2" class="java.lang.String" itemvalue="Python.simpleMutiMsg" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PersonalMsg" />
+      <item index="4" class="java.lang.String" itemvalue="Python.quotes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PersonalMsg" />
-        <item index="1" class="java.lang.String" itemvalue="Python.simpleMutiMsg" />
-        <item index="2" class="java.lang.String" itemvalue="Python.simpleMsg" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PythonCalculateSymbol" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PythonBasicDataType" />
+        <item index="0" class="java.lang.String" itemvalue="Python.quotes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PersonalMsg" />
+        <item index="2" class="java.lang.String" itemvalue="Python.simpleMutiMsg" />
+        <item index="3" class="java.lang.String" itemvalue="Python.simpleMsg" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PythonCalculateSymbol" />
       </list>
     </recent_temporary>
   </component>
@@ -419,8 +432,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PersonalMsg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="160">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
       </provider>
